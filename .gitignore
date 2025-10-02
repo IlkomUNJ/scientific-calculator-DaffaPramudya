@@ -23,11 +23,11 @@ captures/
 .cxx/
 .obj/
 
-# ========== Keystore (Jangan commit ke repo publik) ==========
+# ========== Keystore ==========
 *.jks
 *.keystore
 
-# ========== Google Services (Jangan commit API key) ==========
+# ========== Google Services ==========
 google-services.json
 
 # ========== Fastlane ==========
@@ -35,6 +35,6 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/
 
-# ========== Output APK / AAB (hasil build) ==========
+# ========== APK / AAB ==========
 *.apk
 *.aab
